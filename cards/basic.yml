@@ -1,0 +1,5 @@
+- name: 攻击
+  count: 8
+
+- name: 移动
+  count: 8
